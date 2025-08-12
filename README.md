@@ -47,10 +47,10 @@ Se creó un archivo con versiones equivalentes de funciones (iterativa y recursi
 ### C
 
 - **Tiempo**: usando `clock()` del archivo `<time.h>`
-- **Memoria**: se utiliza `sizeof()` para estimar el uso de memoria
+- **Memoria**: se utiliza `getrusage()` para estimar el uso de memoria
 
-> ⚠️ **Análisis parcial**:  
-Dado que Valgrind no se pudo utilizar por diferentes circunstancias, la memoria en C se estimó usando `sizeof()` y una aproximación por llamada recursiva ("stack frame"). Esta aproximación es **suficiente o parcial** para comparar el rendimiento entre métodos recursivos e iterativos.
+> ⚠️ **Análisis **:  
+En esta versión se obtiene un valor real de uso de memoria en C, a diferencia de aproximaciones anteriores con sizeof(). Esto permite comparar de forma más fiable la eficiencia de cada método.
 
 ---
 
