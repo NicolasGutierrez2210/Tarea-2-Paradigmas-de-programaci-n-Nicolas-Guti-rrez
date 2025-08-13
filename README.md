@@ -3,7 +3,7 @@
 - Este codigo se realizo mediante google colab por lo cual es NECESARIO ejecutarlo desde ahi para que no ocurra ni un tipo de error de compilacion.
 
 - Asegurarse de incluir las librerias necesarias.
-
+- O en su defecto mirar el codigo en el siguiente link https://colab.research.google.com/drive/1lNlcnzJizpksm6oMNuZxp_NKvRe1BsY_?usp=sharing
 
 # Como ejecutar el codigo de c
 
