@@ -63,6 +63,6 @@ En esta versión se obtiene un valor real de uso de memoria en C, a diferencia d
 # Grafica tiempo
 <img width="841" height="431" alt="image" src="https://github.com/user-attachments/assets/395f709d-1c93-4956-a5ea-88688b648008" />
 
-#Grafica memoria  
-<img width="850" height="471" alt="image" src="https://github.com/user-attachments/assets/e9f4043d-2bf9-4441-b222-47c318321fb4" />
+# Grafica memoria  
+<img width="8401" height="431" alt="image" src="https://github.com/user-attachments/assets/e9f4043d-2bf9-4441-b222-47c318321fb4" />
 
