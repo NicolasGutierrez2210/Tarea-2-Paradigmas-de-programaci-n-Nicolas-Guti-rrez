@@ -28,7 +28,7 @@ long get_memory_usage_kb() {
 
 
 int main() {
-    int valores[] = {5, 50, 100, 500, 1000};  // Valores de prueba
+    int valores[] = {5, 10, 20, 40, 50};  // Valores de prueba
     int num_valores = sizeof(valores) / sizeof(valores[0]);
 
     for (int i = 0; i < num_valores; i++) {
