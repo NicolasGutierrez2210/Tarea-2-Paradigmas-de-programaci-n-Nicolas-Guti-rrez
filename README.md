@@ -59,3 +59,10 @@ En esta versión se obtiene un valor real de uso de memoria en C, a diferencia d
 - La versión **iterativa** es más rápida,en el tema de la memoria es similar sin cambios significativos en ambos lenguajes. (esto es mas evidente cuando n>100 en temas de tiempo)
 - **Python** es más lento y usa más memoria que **C**, pero permite medir y graficar los resultados fácilmente.
 - En el recursivo el código más claro y directo, pero con una sobrecarga en el tiempo.
+
+# Grafica tiempo
+<img width="841" height="431" alt="image" src="https://github.com/user-attachments/assets/395f709d-1c93-4956-a5ea-88688b648008" />
+
+#Grafica memoria  
+<img width="850" height="471" alt="image" src="https://github.com/user-attachments/assets/e9f4043d-2bf9-4441-b222-47c318321fb4" />
+
